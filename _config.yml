@@ -12,5 +12,5 @@ paginate_path: /page:num
 timezone:      Australia/Melbourne
 
 # Site Meta
-url: http://unihack.net
+url: http://unihack.net/old
 description: "UNIHACK is Melbourne's premier student hackathon, organised by WIRED Monash"
