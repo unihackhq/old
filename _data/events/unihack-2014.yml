@@ -7,8 +7,8 @@ past: true
 id: 1
 
 # Links
-url: /events/2014/
-img: /media/img/unihack-2014/unihack-2014-archive.jpg
+url: /old/events/2014/
+img: /old/media/img/unihack-2014/unihack-2014-archive.jpg
 
 # Winners
 winners:
@@ -17,7 +17,7 @@ winners:
     uni:    Melbourne
     type:   major
     accent: first
-    img:    /media/img/unihack-2014/first-snippet.jpg
+    img:    /old/media/img/unihack-2014/first-snippet.jpg
 
   - prize:  Best Design
     team:   Discovr
@@ -34,33 +34,33 @@ winners:
 # Judges
 judges:
   - name:     Joe Brasacchio
-    img:      /media/img/judges/joe.jpg
+    img:      /old/media/img/judges/joe.jpg
     role:     PwC
 
   - name:     Jason Cormier
-    img:      /media/img/judges/jason.jpg
+    img:      /old/media/img/judges/jason.jpg
     role:     Mashery
     twitter:  jadacormier
 
   - name:     Hadi Michael
-    img:      /media/img/judges/hadi.jpg
+    img:      /old/media/img/judges/hadi.jpg
     role:     Deloitte Digital
     twitter:  hadi_michael
 
   - name:     Nikki Parker
-    img:      /media/img/judges/nikki.jpg
+    img:      /old/media/img/judges/nikki.jpg
     role:     Freelancer
 
   - name:     Justin Taylor
-    img:      /media/img/judges/justin.jpg
+    img:      /old/media/img/judges/justin.jpg
     role:     Readify
 
   - name:     Andrew van der Stock
-    img:      /media/img/judges/andrew.jpg
+    img:      /old/media/img/judges/andrew.jpg
     role:     KPMG
 
   - name:     Long Zheng
-    img:      /media/img/judges/long.jpg
+    img:      /old/media/img/judges/long.jpg
     role:     Omny
 
 # Sponsorship
