@@ -7,7 +7,7 @@ id: 3
 
 # Links
 url: /events/mini-2016/
-img: /media/img/mini-2016/mini-2016-event-archive.jpg
+img: /old/media/img/mini-2016/mini-2016-event-archive.jpg
 
 # Winners
 winners:
@@ -15,32 +15,32 @@ winners:
     team:   Spectrum
     type:   major
     accent: first
-    img:    /media/img/mini-2016/first-spectrum.jpg
+    img:    /old/media/img/mini-2016/first-spectrum.jpg
 
   - prize:  Second Place
     team:   Join
     type:   major
     accent: second
-    img:    /media/img/mini-2016/second-join.jpg
+    img:    /old/media/img/mini-2016/second-join.jpg
 
   - prize:  Third Place
     team:   2ManyLoops
     type:   major
     accent: third
-    img:    /media/img/mini-2016/third-2manyloops.jpg
+    img:    /old/media/img/mini-2016/third-2manyloops.jpg
 
 # Judges
 judges:
   - name:     Laura Faulconer
-    img:      /media/img/judges/laura.jpg
+    img:      /old/media/img/judges/laura.jpg
     role:     COO, The Generator, Monash University
 
   - name:     James Austin
-    img:      /media/img/judges/james.jpg
+    img:      /old/media/img/judges/james.jpg
     role:     Analytics Associate at PwC; former WIRED committee member
 
   - name:     Rebecca Martin
-    img:      /media/img/judges/rebecca.jpg
+    img:      /old/media/img/judges/rebecca.jpg
     role:     Technology Consultant at EY; Hackathon hacker
 
 # Partners

@@ -1,5 +1,40 @@
 // main: ../style.less
 
+#archive-header {
+  background: #E0E0E0;
+  padding: 24px 0;
+  overflow: hidden;
+
+  i {
+    font-size: 4rem;
+    color: #d32f2f;
+    margin: 0 0 12px 0;
+  }
+
+  p {
+    margin: 0;
+    font-size: 1.5rem;
+    letter-spacing: -1px;
+    font-weight: 700;
+  }
+
+  p.hyperlink {
+    margin-top: 12px;
+    letter-spacing: 0;
+    font-size: 0.875rem;
+    font-weight: normal;
+  }
+
+  a {
+    color: #2979FF;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+}
+
 #gl-head {
   background: @head-bg;
   height: @hmob-height;
@@ -300,8 +335,20 @@
 }
 
 @media (min-width: @screen-md) {
+  #archive-header {
+    height: 110px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+
   .wrap {
     padding: 0 30px;
+  }
+
+  #gl-head {
+    top: 110px;
   }
 
   #main-nav {
@@ -405,6 +452,15 @@
 }
 
 @media (min-width: @screen-lg) {
+  #archive-header i {
+    float: left;
+    margin: 0 24px 0 0;
+  }
+
+  #archive-header p.hyperlink {
+    margin: 6px 0 0 0;
+  }
+
   .wrap {
     width: @wrap-lg;
   }

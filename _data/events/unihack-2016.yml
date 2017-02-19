@@ -11,7 +11,7 @@ url: /events/2016/
 # Judges
 judges:
   - name:     Ren Butler
-    img:      /media/img/judges/ren.jpg
+    img:      /old/media/img/judges/ren.jpg
     role:     Startup Market Manager, BlueChilli
     twitter:  MsRenButler
     bio:      "I keep BlueChilli connected to the key players in the local,
@@ -23,7 +23,7 @@ judges:
               problems with creativity and ingenuity (and frankly love it!)."
 
   - name:     Jason Cormier
-    img:      /media/img/judges/jason.jpg
+    img:      /old/media/img/judges/jason.jpg
     role:     Director of Strategy and New Business, Australia, Mashery
     twitter:  jadacormier
     bio:      "Jason Cormier is a Product Evangelist for API Platforms, working
@@ -32,7 +32,7 @@ judges:
               platform and achieve a positive return on investment as a result."
 
   - name:     Jo Cranford
-    img:      /media/img/judges/jo.jpg
+    img:      /old/media/img/judges/jo.jpg
     role:     Engineering Manager, Culture Amp
     twitter:  jocranford
     bio:      "Jo is an Engineering Manager at Culture Amp, the world's leading
@@ -43,14 +43,14 @@ judges:
               or biking along the beach. "
 
   - name:     Atlanta Daniel
-    img:      /media/img/judges/atlanta.jpg
+    img:      /old/media/img/judges/atlanta.jpg
     role:     General Partner at Signal Ventures
     twitter:  LANTS
     bio:      "Part of Signal Ventures, a seed stage venture capital fund for
               entrepreneurs creating global companies."
 
   - name:     Remya Ramesh
-    img:      /media/img/judges/remya.jpg
+    img:      /old/media/img/judges/remya.jpg
     role:     Experience Design Lead, Seamless CMS
     twitter:  rem_ram
     bio:      "Remya helps government agencies understand the increasingly
@@ -62,11 +62,11 @@ judges:
               crochet and dance."
 
   - name:     Bernard Schokman
-    img:      /media/img/judges/bernard.jpg
+    img:      /old/media/img/judges/bernard.jpg
     role:     Head of UX &amp; Innovation at Foxley, UX Business Consultant
 
   - name:     Dr. Oliver Wolst
-    img:      /media/img/judges/oliver.jpg
+    img:      /old/media/img/judges/oliver.jpg
     role:     Regional President Automotive Electronics, Bosch
     bio:      "Dr. Oliver Wolst is leading Robert Bosch's Automotive Electronics
               division in Australia with a portfolio ranging from power diodes

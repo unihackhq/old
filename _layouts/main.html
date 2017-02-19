@@ -50,6 +50,15 @@ But I ain't done much healing.
 </head>
 
 <body class="{{ page.page }}">
+
+  <div id="archive-header">
+    <div class="wrap">
+      <i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
+      <p>This page has been archived and is no longer updated.</p>
+      <p class="hyperlink"><a href="http://unihack.net/">Visit the UNIHACK website for the latest information</a></p>
+    </div>
+  </div>
+
   {% if page.no_header != true %}
   <header id="gl-head">
     <div class="wrap">
@@ -92,15 +101,15 @@ But I ain't done much healing.
   </footer>
   <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="//cdn.rawgit.com/noelboss/featherlight/1.4.0/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
-  <script type="text/javascript" src="/media/js/site.js"></script>
+  <script type="text/javascript" src="/old/media/js/site.js"></script>
   {% if page.gmaps %}
   <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCkUhRgQ8olWMHZRauELz55rBEBV6eX-P8&sensor=false"></script>
   {% endif %}
   {% if page.countdown %}
-  <script type="text/javascript" src="/media/js/jquery.countdown.min.js"></script>
+  <script type="text/javascript" src="/old/media/js/jquery.countdown.min.js"></script>
   {% endif %}
   {% if page.script %}
-  <script type="text/javascript" src="/media/js/{{ page.script }}"></script>
+  <script type="text/javascript" src="/old/media/js/{{ page.script }}"></script>
   {% endif %}
 </body>
 </html>
